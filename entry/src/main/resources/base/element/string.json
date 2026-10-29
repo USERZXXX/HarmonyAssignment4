@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "NoteDetailAbility_desc",
+      "value": "note detail ability"
+    },
+    {
+      "name": "NoteDetailAbility_label",
+      "value": "笔记详情"
+    }
+  ]
+}
